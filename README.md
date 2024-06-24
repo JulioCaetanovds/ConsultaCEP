@@ -1,4 +1,4 @@
-```
+
 # Consulta de CEP
 
 Este é um programa em PHP que consulta informações de endereço a partir de um CEP (Código de Endereçamento Postal) utilizando a API ViaCEP. 
@@ -18,17 +18,17 @@ Este é um programa em PHP que consulta informações de endereço a partir de u
 ## Como Executar
 
 1. Clone este repositório para o seu ambiente local:
-   ```sh
+   ```
    git clone https://github.com/seu-usuario/consulta-cep.git
    ```
 
 2. Navegue até o diretório do projeto:
-   ```sh
+   ```
    cd consulta-cep
    ```
 
 3. Execute o script PHP:
-   ```sh
+   ```
    php ConsultaCEP.php
    ```
 
@@ -36,7 +36,7 @@ Este é um programa em PHP que consulta informações de endereço a partir de u
 
 ## Exemplo de Uso
 
-```sh
+```
 $ php ConsultaCEP.php
 Consulta de CEP
 Digite um CEP (apenas números): 01001000
