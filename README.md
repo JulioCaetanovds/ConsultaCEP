@@ -73,4 +73,3 @@ consulta-cep/
 ## Licença
 
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
-```
